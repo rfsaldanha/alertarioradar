@@ -8,4 +8,4 @@ done
 
 convert -delay 20 -loop 0 alertarioradar/temp/*.png alertario.gif
 
-cp alertarioradar/alertario.gif /dados/htdocs/shiny.icict.fiocruz.br/
+mv alertarioradar/alertario.gif /dados/htdocs/shiny.icict.fiocruz.br/
